@@ -47,6 +47,8 @@
 
 * ссылка на сайт[ссылка](https://www.google.com/search?q=%D1%80%D0%B5%D1%84%D0%BE%D1%80%D1%82%D0%B0%D0%BD&oq=&aqs=chrome.2.69i59i450l8.10309281j0j15&sourceid=chrome&ie=UTF-8)
 
+* полезная ссылка на сайт по MD [ссылка](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
 
 
 # цытаты
